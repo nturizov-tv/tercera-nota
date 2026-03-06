@@ -1,4 +1,5 @@
 public class ejercicio_practico {
+
     public static void main(String[] args) {
         
         // Declaracion y asignacion
@@ -10,8 +11,10 @@ public class ejercicio_practico {
         System.out.println("Inicial del nombre: " + inicial);
         boolean esMayorDeEdad = true;
         System.out.println("¿Es mayor de edad?: " + esMayorDeEdad);
+        System.out.println();
 
         // Declaracion y asignacion
+        System.out.println();
         int edad2 = 15;
         System.out.println("Edad: " + edad2);
         double altura2 = 1.65;
@@ -21,6 +24,4 @@ public class ejercicio_practico {
         boolean esMayorDeEdad2 = false;
         System.out.println("¿Es mayor de edad?: " + esMayorDeEdad2);
     }    
-
-     
 }
