@@ -3,16 +3,23 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Ejercicio_practico_2",
+            "name": "App",
             "request": "launch",
-            "mainClass": "Ejercicio_practico_2",
+            "mainClass": "App",
             "projectName": "tercera-nota_1080923c"
         },
         {
             "type": "java",
-            "name": "Main",
+            "name": "ejercicio_2",
             "request": "launch",
-            "mainClass": "Main",
+            "mainClass": "ejercicio_2",
+            "projectName": "tercera-nota_1080923c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_practico_2",
+            "request": "launch",
+            "mainClass": "Ejercicio_practico_2",
             "projectName": "tercera-nota_1080923c"
         },
         {
@@ -24,3 +31,4 @@
         }
     ]
 }
+
