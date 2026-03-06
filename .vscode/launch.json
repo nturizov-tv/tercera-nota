@@ -3,10 +3,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio_practico_2",
+            "request": "launch",
+            "mainClass": "Ejercicio_practico_2",
+            "projectName": "tercera-nota_1080923c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "tercera-nota_1080923c"
+        },
+        {
+            "type": "java",
             "name": "Lanzar Programa",
             "request": "launch",
             "mainClass": "ejercicio_practico",
             "console": "externalTerminal"
         }
     ]
-    }
+}
