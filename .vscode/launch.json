@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "actividad_2",
+            "request": "launch",
+            "mainClass": "actividad_2",
+            "projectName": "tercera-nota_1080923c"
+        },
+        {
+            "type": "java",
             "name": "actividad_1",
             "request": "launch",
             "mainClass": "actividad_1",
