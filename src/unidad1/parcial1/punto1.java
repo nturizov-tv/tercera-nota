@@ -39,6 +39,7 @@ public class Punto1{
         }
 
         scanner.close();
+        
     }  
 }
     
