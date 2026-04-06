@@ -1,4 +1,5 @@
-public class numeros_pares {
+package unidad1;
+public class NumerosPares {
     public static void main(String[] args) {
 
         int contador = 0;

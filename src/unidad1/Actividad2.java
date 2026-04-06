@@ -1,4 +1,6 @@
-public class actividad_2 {
+package unidad1;
+
+public class Actividad2 {
     public static void main(String[] args) {
 
         double precioCamiseta = 25;

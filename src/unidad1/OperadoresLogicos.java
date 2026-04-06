@@ -1,4 +1,5 @@
-public class operadores_logicos {
+package unidad1;
+public class OperadoresLogicos {
      public static void main(String[] args) {
         
         int a = 15;

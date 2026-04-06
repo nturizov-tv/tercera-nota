@@ -1,5 +1,6 @@
+package unidad1;
 import java.util.Scanner;
-public class menu_interactivo {
+public class MenuInteractivo {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);

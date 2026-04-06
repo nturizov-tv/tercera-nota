@@ -1,5 +1,6 @@
+package unidad1;
 import java.util.Scanner;
-public class numero1_mayor {
+public class Numero1Mayor {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);

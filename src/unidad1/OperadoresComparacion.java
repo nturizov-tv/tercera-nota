@@ -1,4 +1,5 @@
-public class operadores_comparacion {
+package unidad1;
+public class OperadoresComparacion {
     public static void main(String[] args) {
         
         int numero1 = 20;

@@ -1,4 +1,6 @@
-public class ejercicio_practico {
+package unidad1;
+
+public class EjercicioPractico {
 
     public static void main(String[] args) {
         

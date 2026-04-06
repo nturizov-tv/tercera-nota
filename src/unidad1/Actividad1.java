@@ -1,4 +1,6 @@
-public class actividad_1 {
+package unidad1;
+
+public class Actividad1 {
     public static void main(String[] args) {
 
         double saldoInicial = 1000;

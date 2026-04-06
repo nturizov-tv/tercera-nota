@@ -1,5 +1,6 @@
+package unidad1;
 import java.util.Scanner;
-public class tres_numeros_mayor {
+public class TresNumerosMayor {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);

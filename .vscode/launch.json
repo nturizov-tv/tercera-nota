@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "punto",
+            "request": "launch",
+            "mainClass": "unidad1.parcial1.punto",
+            "projectName": "tercera-nota_ff250e3c"
+        },
+        {
+            "type": "java",
+            "name": "punto1",
+            "request": "launch",
+            "mainClass": "unidad1.parcial1.punto1",
+            "projectName": "tercera-nota_ff250e3c"
+        },
+        {
+            "type": "java",
             "name": "actividad_2",
             "request": "launch",
             "mainClass": "actividad_2",

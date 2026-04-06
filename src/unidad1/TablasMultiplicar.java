@@ -1,5 +1,6 @@
+package unidad1;
 import java.util.Scanner;
-public class tablas_multiplicar {
+public class TablasMultiplicar {
      public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
