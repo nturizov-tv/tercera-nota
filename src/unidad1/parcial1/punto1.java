@@ -2,7 +2,7 @@ package unidad1.parcial1;
 
 import java.util.Scanner;
 
-public class Punto1{
+public class punto1{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
