@@ -1,3 +1,5 @@
+package unidad2;
+
 import java.util.Scanner;
 
 public class PrimerEjercicio {
